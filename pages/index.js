@@ -6,6 +6,9 @@ const Index = () => (
     <Link href="/about" passHref={true}>
       <button>About</button>
     </Link>
+    <Link href="/robots" passHref={true}>
+      <button>Robots</button>
+    </Link>
   </div>
 );
 
